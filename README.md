@@ -12,7 +12,7 @@ Um nevegador web
 
 ## 🎯 Demonstração
 
-![](Exemplo.gif)
+https://user-images.githubusercontent.com/87917525/177592235-28b3d572-15b3-40cb-859c-7da30ffeb25e.mp4
 
 ## 🖇️ Colaborando
 
